@@ -68,4 +68,6 @@ The dataset includes millions of grocery orders from Instacart users, containing
 ## 👤 Author
 
 Stephan Welzel
-Data Analyst/Scientist | Python, SQL & n8n Enthusiast
+
+Data Analyst/Scientist 
+Python, SQL & n8n Enthusiast
