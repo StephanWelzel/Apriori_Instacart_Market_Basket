@@ -57,11 +57,11 @@ The dataset includes millions of grocery orders from Instacart users, containing
 ---
 
 ## 📁 Repository Structure
-    ```
+    
     📦 Instacart_Market_Basket_Analysis
     ┣ 📜 Instacart_Market_Basket_Analysis.ipynb
     ┣ 📜 README.md
-    ```
+    
 ---
 
 ## 🚀 How to Run
