@@ -62,13 +62,6 @@ The dataset includes millions of grocery orders from Instacart users, containing
     ┣ 📜 Instacart_Market_Basket_Analysis.ipynb
     ┣ 📜 README.md
     
----
-
-## 🚀 How to Run
-1. **Clone the repository:**
-   ```
-   git clone https://github.com/<your-username>/Instacart_Market_Basket_Analysis.git
-   ```
    
 ---
 
